@@ -11,17 +11,16 @@
 vk_bot/
  # Основной код бота
 main.py
-├── config.py   
 # Конфигурация (токены, ссылки)
-├── requirements.txt 
+ config.py   
 # Зависимости
-├── .env.example    
+requirements.txt    
 # Пример файла окружения
-├── logs/    
+env.example   
 # Логи бота
-└── keyboards/  
+logs/ 
 # JSON-клавиатуры для VK
-
+keyboards/ 
 ---
 
 ## 🚀 Запуск локально
